@@ -4,7 +4,7 @@ A collection of 15 standalone, prop-free loading animations built with
 **React**, **Tailwind CSS**, **Framer Motion**, and **lucide-react** — plus
 an interactive gallery to preview and trigger every one of them.
 
-**(https://loading-reusable-components.vercel.app/)** &nbsp;·&nbsp; 
+**Live Demo:(https://loading-reusable-components.vercel.app/)** &nbsp;·&nbsp; 
 
 <!--
   Replace the links above once deployed, and drop a short screen recording
