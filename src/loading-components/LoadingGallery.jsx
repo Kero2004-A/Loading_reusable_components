@@ -138,7 +138,7 @@ export default function LoadingGallery() {
   const runningCount = activeIds.size;
 
   return (
-    <div className="min-h-screen bg-slate-950 bg-[radial-gradient(circle_at_1px_1px,rgba(148,163,184,0.08)_1px,transparent_0)] bg-[size:24px_24px] px-6 py-14 text-slate-100 sm:px-10">
+    <div className="min-h-screen bg-slate-950 bg-[radial-gradient(circle_at_1px_1px,rgba(148,163,184,0.08)_1px,transparent_0)] bg-size[24px_24px] px-6 py-14 text-slate-100 sm:px-10">
       <div className="mx-auto max-w-6xl">
         {/* Header */}
         <div className="flex flex-col gap-6 border-b border-slate-800 pb-8 sm:flex-row sm:items-end sm:justify-between">
